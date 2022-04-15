@@ -5,7 +5,7 @@ import time
 import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton, ReplyKeyboardMarkup
 
-bot = telebot.TeleBot('5102168831:AAHZAlDmEBOqUUEUBRP4hb3GQYFc36JR9gM')
+bot = telebot.TeleBot('Token')
 
 Link = False
 Sorting_playlist = False
